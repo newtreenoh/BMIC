@@ -7,7 +7,6 @@ function calculateBMI(){
     try {
         // const bmiValue = weight/height;
         // bmiResult.innerText = bmiValue;
-        // bmiResult.innerText = "Clicked biatch!";
         console.log("Clicked!");
     } catch (error) {
         console.log("Error!");
